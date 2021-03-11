@@ -11,6 +11,10 @@ This repository contains the following several sorting algorithms and some with 
 
 
 3. Recursive Bubble Sort
+
+    Recursive bubble sort is the sorting algorithm used to arrange a list in a particular form that can be ascending or descending in numerical or lexicographical order using recurrsion technique.
+    
+    
 4. Insertion Sort
 5. Recursive Insertion Sort
 6. Merge Sort
