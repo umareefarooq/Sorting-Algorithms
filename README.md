@@ -16,6 +16,10 @@ This repository contains the following several sorting algorithms and some with 
     
     
 4. Insertion Sort
+
+    Insertion sort is a sorting algorithm in which the elements are transferred one at a time to the right position. In other words, an insertion sort helps in building the final sorted list, one item at a time, with the movement of higher-ranked elements. An insertion sort has the benefits of simplicity and low overhead.
+
+
 5. Recursive Insertion Sort
 6. Merge Sort
 7. Iterative Merge Sort
