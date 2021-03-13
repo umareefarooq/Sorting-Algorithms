@@ -21,6 +21,10 @@ This repository contains the following several sorting algorithms and some with 
 
 
 5. Recursive Insertion Sort
+
+    Same above insertion sort technique using recursion.
+
+
 6. Merge Sort
 7. Iterative Merge Sort
 8. Quick Sort
