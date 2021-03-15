@@ -31,6 +31,10 @@ This repository contains the following several sorting algorithms and some with 
 
 
 7. Iterative Merge Sort
+
+    Same above merge sort technique using recursion.
+
+
 8. Quick Sort
 9. Iterative Quick Sort
 10. Heap Sort
