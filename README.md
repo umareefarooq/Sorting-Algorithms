@@ -36,6 +36,11 @@ This repository contains the following several sorting algorithms and some with 
 
 
 8. Quick Sort
+
+    Quicksort is a divide-and-conquer algorithm. It works by selecting a 'pivot' element from the array and partitioning the other elements into two sub-arrays, according to whether they are less than or greater than the pivot. ... The sub-arrays are then sorted recursively.
+
+
+
 9. Iterative Quick Sort
 10. Heap Sort
 11. Counting Sort
