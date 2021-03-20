@@ -37,7 +37,7 @@ This repository contains the following several sorting algorithms and some with 
 
 8. Iterative Quick Sort
     
-    Quick sort using Recusrion.
+    Quick sort using Recusrion or we can call it the Iterative Quick Sort.
 
    
 9. Quick Sort
