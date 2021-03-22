@@ -45,6 +45,10 @@ This repository contains the following several sorting algorithms and some with 
     Quicksort is a divide-and-conquer algorithm. It works by selecting a 'pivot' element from the array and partitioning the other elements into two sub-arrays, according to whether they are less than or greater than the pivot. ... The sub-arrays are then sorted recursively.
 
 10. Heap Sort
+    
+    Heap sort is a comparison based sorting technique based on Binary Heap data structure. It is similar to selection sort where we first find the maximum element and place the maximum element at the end. We repeat the same process for the remaining elements. 
+
+
 11. Counting Sort
 12. Radix Sort
 13. Bucket Sort
