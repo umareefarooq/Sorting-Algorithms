@@ -50,6 +50,11 @@ This repository contains the following several sorting algorithms and some with 
 
 
 11. Counting Sort
+
+    Counting sort is a stable sorting technique, which is used to sort objects according to the keys that are small numbers. It counts the number of keys whose key values are same. This sorting technique is effective when the difference between different keys are not so big, otherwise, it can increase the space complexity.
+
+
+
 12. Radix Sort
 13. Bucket Sort
 14. Shell Sort
