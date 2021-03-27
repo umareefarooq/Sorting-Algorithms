@@ -1,11 +1,11 @@
 # Sorting-Algorithms
 This repository contains the following several sorting algorithms and some with their optimised forms as well.
 
-1. Selection Sort
+1. ## Selection Sort
 
     The smallest element is selected from the unsorted array and swapped with the leftmost element, and that element becomes a part of the sorted array. This            process continues moving unsorted array boundary by one element to the right.
     
-2. Bubble Sort
+2. ## Bubble Sort
 
     Bubble sort is a basic algorithm for arranging a string of numbers or other elements in the correct order. The method works by examining each set of adjacent elements in the string, from left to right, switching their positions if they are out of order.
 
