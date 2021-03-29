@@ -56,6 +56,9 @@ This repository contains the following several sorting algorithms and some with 
 
 
 12. Radix Sort
+
+    Radix sort is one of the sorting algorithms used to sort a list of integer numbers in order. In radix sort algorithm, a list of integer numbers will be sorted based on the digits of individual numbers. ... For example, if the largest number is a 3 digit number then that list is sorted with 3 passes.
+
 13. Bucket Sort
 14. Shell Sort
 15. Comb Sort
