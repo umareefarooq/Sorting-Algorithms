@@ -10,12 +10,12 @@ This repository contains the following several sorting algorithms and some with 
     Bubble sort is a basic algorithm for arranging a string of numbers or other elements in the correct order. The method works by examining each set of adjacent elements in the string, from left to right, switching their positions if they are out of order.
 
 
-3. Recursive Bubble Sort
+3. ## Recursive Bubble Sort
 
     Recursive bubble sort is the sorting algorithm used to arrange a list in a particular form that can be ascending or descending in numerical or lexicographical order using recurrsion technique.
     
     
-4. Insertion Sort
+4. ## Insertion Sort
 
     Insertion sort is a sorting algorithm in which the elements are transferred one at a time to the right position. In other words, an insertion sort helps in building the final sorted list, one item at a time, with the movement of higher-ranked elements. An insertion sort has the benefits of simplicity and low overhead.
 
