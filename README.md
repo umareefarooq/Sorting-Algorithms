@@ -20,12 +20,12 @@ This repository contains the following several sorting algorithms and some with 
     Insertion sort is a sorting algorithm in which the elements are transferred one at a time to the right position. In other words, an insertion sort helps in building the final sorted list, one item at a time, with the movement of higher-ranked elements. An insertion sort has the benefits of simplicity and low overhead.
 
 
-5. Recursive Insertion Sort
+5. ## Recursive Insertion Sort
 
     Same above insertion sort technique using recursion.
 
 
-6. Merge Sort
+6. ## Merge Sort
 
     Merge sort is one of the most efficient sorting algorithms. It works on the principle of Divide and Conquer. Merge sort repeatedly breaks down a list into several sublists until each sublist consists of a single element and merging those sublists in a manner that results into a sorted list.
 
