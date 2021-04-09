@@ -49,13 +49,13 @@ This repository contains the following several sorting algorithms and some with 
     Heap sort is a comparison based sorting technique based on Binary Heap data structure. It is similar to selection sort where we first find the maximum element and place the maximum element at the end. We repeat the same process for the remaining elements. 
 
 
-11. Counting Sort
+11. ## Counting Sort
 
     Counting sort is a stable sorting technique, which is used to sort objects according to the keys that are small numbers. It counts the number of keys whose key values are same. This sorting technique is effective when the difference between different keys are not so big, otherwise, it can increase the space complexity.
 
 
 
-12. Radix Sort
+12. ## Radix Sort
 
     Radix sort is one of the sorting algorithms used to sort a list of integer numbers in order. In radix sort algorithm, a list of integer numbers will be sorted based on the digits of individual numbers. ... For example, if the largest number is a 3 digit number then that list is sorted with 3 passes.
 
