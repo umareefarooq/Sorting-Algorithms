@@ -63,6 +63,6 @@ This repository contains the following several sorting algorithms and some with 
 
     Bucket sort, or bin sort, is a sorting algorithm that works by distributing the elements of an array into a number of buckets. Each bucket is then sorted   individually, either using a different sorting algorithm, or by recursively applying the bucket sorting algorithm.
     
-15. Shell Sort
+15. ## Shell Sort
 16. Comb Sort
 
